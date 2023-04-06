@@ -654,16 +654,8 @@ to {
 	
 }
 
-/* .divl a {
-	line-height: 40px;
-	height: 100%;
-	font-size: 25px;
-	/* display: inline-block;
-	position: relative; */
-	/*z-index: 1;
-	text-decoration: none;
-	text-transform: uppercase;
-	text-align: center;
-	
-	cursor: pointer;
-} */
+.divl a:hover {
+    color: #4e8dcd;;
+    background-color: #fff;
+    text-decoration: none;
+}
